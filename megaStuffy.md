@@ -8,7 +8,7 @@ Interact with a stuffy in the living quarters when all have been collected.
 In the control center next to Stamin-up.\
 ![alt text](images/img17.png)\
 \
-On the bridge conecting the seatower to engineering.\
+On the bridge connecting the sea tower to engineering.\
 ![alt text](images/img18.png)\
 \
 In the mining tunnels by the Gobblegum machine.\
